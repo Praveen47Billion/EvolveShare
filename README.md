@@ -1,2 +1,2 @@
 # EvolveShare
-To share files
+Use this repo to share files like rsp files,learn documents etc
